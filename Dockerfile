@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINTER Cuda Che <clh960524@gmail.com>
+MAINTAINER Cuda Che <clh960524@gmail.com>
 
 # Supress warnings about missing front-end. As recommended at:
 # http://stackoverflow.com/questions/22466255/is-it-possibe-to-answer-dialog-questions-when-installing-under-docker
